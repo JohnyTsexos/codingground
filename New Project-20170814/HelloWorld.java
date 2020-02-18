@@ -4,7 +4,9 @@ import java.io.InputStreamReader;
 public class HelloWorld{
 
      public static void main(String []args){
-           int[] roomDoors= { 2, 3, 2, 3, 4 ,3 ,2 ,3 ,2};
+//edw deixnw spitaki
+
+int[] roomDoors= { 2, 3, 2, 3, 4 ,3 ,2 ,3 ,2};
           int myRoom=0;
           int i=0;
           int nextRoom=0;
@@ -27,7 +29,7 @@ public class HelloWorld{
             
         }
         */
-        
+     //edw prpei na tou knaw print kati ti na kaneiii   
         
         //CHECK ROOM CHOICE
         System.out.println("inside the room there are " + roomDoors[myRoom-1] + " doors....");
